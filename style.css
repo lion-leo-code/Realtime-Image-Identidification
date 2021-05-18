@@ -1,0 +1,46 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px !important;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px !important;
+  }
+  .heading_div2
+  {
+    font-size: 15px ;
+    width: 100%;
+    text-align: center !important;
+    float: none !important;  
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+.copy_right_footer{
+  background-color: grey;
+  position:fixed ;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  float: none;
+  height: 3%;
+  bottom: 0px;
+  width: 100%;
+  border-radius: 30px;
+}
+canvas{
+  border: 5px dotted teal;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px lightseagreen;
+  margin-top: 140px;
+  transform: scaleX(-1);
+}
